@@ -52,14 +52,23 @@ Text summarization is employed in various applications, such as:
 
 ## **3. Input**
 The below is the text input on which we want to test five models.
-<img src = "https://github.com/BhavyaBhalla-27/Assignment-3/assets/114859167/4d699da7-1a23-415b-a0f7-cb5437d167aa" width = "100%" height="100%" />
+![text input](https://github.com/MannatPruthi/TOPSIS-on-Text-Summarization/assets/91721574/c2c6a8d1-479c-4f4e-8da5-2b9f00ce0b64)
+
+
+
 The below is the input which will be given to TOPSIS.
-<img src="https://github.com/BhavyaBhalla-27/Assignment-3/assets/114859167/4cba7f9b-3d35-4904-a495-cdecee8e1df8" width="100%" height="100%">
+![input](https://github.com/MannatPruthi/TOPSIS-on-Text-Summarization/assets/91721574/e355e8d4-6de7-4227-b129-eabaf8bbadab)
+
 
 ## **4. Output**
-<img src="https://github.com/BhavyaBhalla-27/Assignment-3/assets/114859167/3a04a1cb-a8a5-46a6-9f11-df1ffc38fb90" width="120%" height="120%">
+![output](https://github.com/MannatPruthi/TOPSIS-on-Text-Summarization/assets/91721574/10a026d4-4103-4640-8d3a-5e1a4f76d01b)
 
-## **5. Conclusion**
+## **5. Bar Graph**
+The bar chart visually represents the performance metrics of each model, providing an easy-to-understand comparison.
+![graph](https://github.com/MannatPruthi/TOPSIS-on-Text-Summarization/assets/91721574/a31f1329-3939-49c3-a571-65f1dd8fe07b)
+
+
+## **6. Conclusion**
 Hence we can conclude that Model-3 named "t5-base-fr-sum-cnndm" performed best in our case.
 <br>
 <a href="https://huggingface.co/plguillou/t5-base-fr-sum-cnndm">View Model on Hugging Face</a>
