@@ -69,6 +69,6 @@ The bar chart visually represents the performance metrics of each model, providi
 
 
 ## **6. Conclusion**
-Hence we can conclude that Model-3 named "t5-base-fr-sum-cnndm" performed best in our case.
+Hence we can conclude that Model-3 named **"t5-base-fr-sum-cnndm"** performed best in our case.
 <br>
 <a href="https://huggingface.co/plguillou/t5-base-fr-sum-cnndm">View Model on Hugging Face</a>
